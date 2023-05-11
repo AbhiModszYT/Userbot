@@ -1,0 +1,28 @@
+{
+    "name": "UserAI", 
+    "logo": "https://telegra.ph/file/6e82e730c9a7f782d832b.jpg",
+    "description": "An Advanced Telegram UserId Chatbot.",
+    "env": {
+        "STRING": {
+            "description": "Pyrogram String session of your account Get From @ssgenrobot",
+            "required": true
+        },        
+        "MONGO_URL": {
+            "description": "mongo db url here Get Form mongodb.com",
+            "required": true
+        },
+        "API_ID": {
+            "description": "telegram api id here Get From my.telegram.org",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "telegram api hash here Get From my.telegram.org",
+            "required": true
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
