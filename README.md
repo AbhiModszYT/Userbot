@@ -17,7 +17,6 @@ The easiest way to deploy this Bot
 <details>
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
 <p><a href="https://telegram.dog/ssgenrobot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
-</details>
 ### Deploy To Heroku 🚀
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AbhiModszYT/UserBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
@@ -27,7 +26,7 @@ The easiest way to deploy this Bot
 ## 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗔𝗻𝗱 𝗦𝘂𝗽𝗽𝗼𝗿𝘁
 <p align="center"><a href="https://t.me/AM_YTSupport"> <img src="https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 <p align="center"><a href="https://t.me/AbhiModszYT_Return"> <img src="https://img.shields.io/badge/Support%20Channel-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-
+</details>
 <h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
 <a href="https://github.com/AbhiModszYT/UserBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiModszYT&repo=UserBot&theme=chartreuse-dark"></a>
 
